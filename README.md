@@ -26,7 +26,7 @@ A simple and interactive React app that lets users change the background color o
 
 ## 📸 Preview
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](https://github.com/aadityajoshi2k5/bg-color-changer/blob/7d5c0fa99261d86a0efc26db893717d93adc46f4/screenshot.jpg)
 
 ---
 
